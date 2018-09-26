@@ -154,3 +154,23 @@
       >>> 'jack' not in tel
       False
       
+ 5.6. Looping Techniques
+      >>> knights ={'gallahad': 'the pure', 'robin': 'the brave'}
+      >>> for k, v in knights.items():
+      ...     print(k, v)
+      ...
+      gallahad the pure
+      robin the brave
+      
+      Ketika mengulang melalui kamus, kunci dan nilai yang terkait dapat diambil pada saat yang sama menggunakan metode item ().
+ 
+ 5.7. More on Conditions
+      >>> string1, string2, string3 = '', 'Trondheim', 'Hammer Dance'
+      >>> non_null = string1 or string2 or string3
+      >>> non_null
+      'Trondheim'
+   
+
+        
+   
+      

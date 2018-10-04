@@ -1,11 +1,11 @@
   6. Modules
-        >>> def fib(n):
-        ...     a, b = 0, 1
-        ...     while a < n:
-        ...             print(a, end=' ')
-        ...             a, b = b, a+b
-        ...     print()
-        ...
+     >>> def fib(n):
+     ...     a, b = 0, 1
+     ...     while a < n:
+     ...             print(a, end=' ')
+     ...             a, b = b, a+b
+     ...     print()
+     ...
         
     >>> def fib2(n):
     ...     result = []
@@ -15,9 +15,9 @@
     ...             a, b = b, a+b
     ...     return result
     ...
-    >>> import sys
     
-    untuk mengimport modul yang sudah ada 
+    untuk mengimport modul fibo
+    >>> import sys
     >>> sys.path.append(r'D:\python')
     >>> import fibo
     >>> fibo.fib(1000)

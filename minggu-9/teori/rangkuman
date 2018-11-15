@@ -1,0 +1,15 @@
+1. apa itu jupyter
+    aplikasi web open source yang memungkinkan untuk membuat dan 
+    berbagi dokumen yang berisi kode langsung, persamaan, visualisa dan teks naratif
+
+2. fungsi dari jupyter
+    - pemberitahuan an transformasi data
+    - simulasi numerik
+    - pemodelan statistik
+    - pembelajaran mesin
+
+3. cara menginstal jupyter
+    - menginstal anaconda atau miniconda (distribusi python)
+
+4. cara menggunakan jupyter
+  -python, anaconda, pip

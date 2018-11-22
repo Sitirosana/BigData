@@ -1,5 +1,5 @@
 
-# Chapter 2: Essential DataFrame Operations
+# Chapter 2: Essential DataFrame Operationss
 
 
 

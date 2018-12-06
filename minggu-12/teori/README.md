@@ -17,7 +17,7 @@ hal 138 : describe
 hal 145 : college 
           untuk menyeleksi semua institusi dari number dengan menggunakan index bolean dan index seleksi dan disatukan keduanya.
 hal 148 : set.index
-          
+          mengeset index yang dicari
 hal 149 : is.unique
           bersifat unik
 hal 153 : matplitlib

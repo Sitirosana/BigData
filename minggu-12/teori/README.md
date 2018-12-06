@@ -41,3 +41,17 @@ hal 157 :.isin
           
 hal 158 : .value.counts
           method yang tepat untuk mengambil eksrak string nama dan nomor dari value.
+          
+hal 161 : pet.change 
+          membuat seris dari hanya menyeleksi beberapa potongan
+          
+hal 171 : clip
+          method yaang dapat mengatur sebuah data diwaktu yang sama
+          mask
+          menampilkan data sesuai dengan value >= 2010/ movie title =" year kosong
+          
+hal 174 : assert_trane_equcl
+          mengecek equality dari series dan dataframe tapnya langsung mengecek lagi
+          dtype
+          untuk mengecek type data
+ 
